@@ -1,0 +1,123 @@
+{
+  "products : [{
+  "id": 1,
+  "judul": "Veal - Knuckle",
+  "harga": "$4.85"
+}, {
+  "id": 2,
+  "judul": "Peas - Frozen",
+  "harga": "$6.11"
+}, {
+  "id": 3,
+  "judul": "Dried Figs",
+  "harga": "$5.43"
+}, {
+  "id": 4,
+  "judul": "Guava",
+  "harga": "$1.61"
+}, {
+  "id": 5,
+  "judul": "Table Cloth 90x90 Colour",
+  "harga": "$0.86"
+}, {
+  "id": 6,
+  "judul": "Beef - Rib Eye Aaa",
+  "harga": "$2.51"
+}, {
+  "id": 7,
+  "judul": "Pork - Liver",
+  "harga": "$1.82"
+}, {
+  "id": 8,
+  "judul": "Corn Syrup",
+  "harga": "$8.61"
+}, {
+  "id": 9,
+  "judul": "Monkfish Fresh - Skin Off",
+  "harga": "$1.95"
+}, {
+  "id": 10,
+  "judul": "Pail - 4l White, With Handle",
+  "harga": "$9.84"
+}, {
+  "id": 11,
+  "judul": "Energy - Boo - Koo",
+  "harga": "$9.06"
+}, {
+  "id": 12,
+  "judul": "Tea - Herbal Orange Spice",
+  "harga": "$9.76"
+}, {
+  "id": 13,
+  "judul": "Water - Aquafina Vitamin",
+  "harga": "$7.86"
+}, {
+  "id": 14,
+  "judul": "Fruit Salad Deluxe",
+  "harga": "$6.47"
+}, {
+  "id": 15,
+  "judul": "Beef - Kindney, Whole",
+  "harga": "$1.78"
+}, {
+  "id": 16,
+  "judul": "Beans - Fava, Canned",
+  "harga": "$9.51"
+}, {
+  "id": 17,
+  "judul": "Kellogs Raisan Bran Bars",
+  "harga": "$5.75"
+}, {
+  "id": 18,
+  "judul": "Wine - Spumante Bambino White",
+  "harga": "$3.31"
+}, {
+  "id": 19,
+  "judul": "Cinnamon Buns Sticky",
+  "harga": "$8.75"
+}, {
+  "id": 20,
+  "judul": "Cheese - Parmesan Grated",
+  "harga": "$7.01"
+}, {
+  "id": 21,
+  "judul": "Mustard - Seed",
+  "harga": "$6.68"
+}, {
+  "id": 22,
+  "judul": "Dr. Pepper - 355ml",
+  "harga": "$8.52"
+}, {
+  "id": 23,
+  "judul": "Crab - Claws, 26 - 30",
+  "harga": "$6.41"
+}, {
+  "id": 24,
+  "judul": "Hagen Daza - Dk Choocolate",
+  "harga": "$5.07"
+}, {
+  "id": 25,
+  "judul": "Pickle - Dill",
+  "harga": "$4.16"
+}, {
+  "id": 26,
+  "judul": "Sauce - Cranberry",
+  "harga": "$5.08"
+}, {
+  "id": 27,
+  "judul": "Versatainer Nc - 888",
+  "harga": "$9.08"
+}, {
+  "id": 28,
+  "judul": "Chilli Paste, Hot Sambal Oelek",
+  "harga": "$0.95"
+}, {
+  "id": 29,
+  "judul": "Oysters - Smoked",
+  "harga": "$3.56"
+}, {
+  "id": 30,
+  "judul": "Bread - Crusty Italian Poly",
+  "harga": "$7.10"
+}]
+}
